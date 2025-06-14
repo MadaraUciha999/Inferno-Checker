@@ -1,0 +1,6 @@
+pyTelegramBotAPI
+aiohttp
+replicate
+user-agent
+requests
+yt-dlp
